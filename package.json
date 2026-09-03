@@ -32,11 +32,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-org/dsh-wooden-fish.git"
+    "url": "git+https://github.com/hotpot-labs/dsh-wooden-fish.git"
   },
-  "homepage": "https://github.com/your-org/dsh-wooden-fish#readme",
+  "homepage": "https://github.com/hotpot-labs/dsh-wooden-fish#readme",
   "bugs": {
-    "url": "https://github.com/your-org/dsh-wooden-fish/issues"
+    "url": "https://github.com/hotpot-labs/dsh-wooden-fish/issues"
   },
   "keywords": [
     "dsh",
